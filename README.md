@@ -46,8 +46,8 @@ Most extensions are ready to go out of the box; however, some require a bit of c
 
 ## System Requirements
 **System requirements were acquired on 3/2/2024; specifications were designed based on the extensions at that time.**
-At least 100 MB of Space
-Visual Studio Code 1.87.0 or higher
+* At least 100 MB of Space
+* Visual Studio Code 1.87.0 or higher
 
 ## Roadmap
 * Audio file replaced
@@ -68,6 +68,10 @@ Learn to enjoy programming and improving on a regular basis. It isn't always the
 [Issues](https://github.com/DrLonnieJonesPFMP/GitGud/issues)
 
 ## Release Notes
+2024.3.3: Formatting issues fixed
+
 2024.3.2: Updated the Readme, added quick start directions, release notes, updated version control for the date
+
 0.0.2: Updated documentation
+
 0.0.1: Added base extensions, icon
