@@ -3,8 +3,8 @@
   "name": "gitgud",
   "displayName": "GitGud",
   "description": "Gamification of Programming",
-  "version": "0.1.0",
-"publisher": "Lonnie S. Jones",
+  "version": "2024.3.2",
+"publisher": "LonnieSJones",
   "engines": {
       "vscode": "^1.87.0"
   },
@@ -14,18 +14,21 @@
       "theme": "light"
   },
   "keywords": [
-      "collaboration",
-  "game",
-      "gamification",
-  "gif",
-  "metric",
-  "power",
-  "sound",
-  "theme",
-  "time"
+    "collaboration",
+    "game",
+    "gamification",
+    "gif",
+    "metric",
+    "power",
+    "sound",
+    "theme",
+    "time"
   ],
   "categories": [
-      "Extension Packs"
+      "Entertainment",
+      "Extension Packs",
+      "Other",
+      "Productivity"
   ],
   "repository": {
       "url": "https://github.com/DrLonnieJonesPFMP/GitGud"
@@ -38,6 +41,7 @@
   "giflens.giflens", 
   "hoovercj.vscode-power-mode", 
   "lkytal.pomodoro", 
+  "lehni.vscode-fix-checksums",
   "lostintangent.vsls-pomodoro", 
   "ms-vsliveshare.vsliveshare", 
   "mtuan.typing-sounds", 
