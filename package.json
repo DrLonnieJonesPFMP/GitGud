@@ -3,16 +3,13 @@
   "name": "gitgud",
   "displayName": "GitGud",
   "description": "Gamification of Programming",
-  "version": "2024.3.3",
-"publisher": "LonnieSJones",
+  "version": "2024.3.7",
+  "publisher": "LonnieSJones",
+  "MoreInfoURL": "",
   "engines": {
       "vscode": "^1.87.0"
   },
   "icon": "icon.png",
-  "galleryBanner": {
-      "color": "#FFFFFF",
-      "theme": "light"
-  },
   "keywords": [
     "collaboration",
     "game",
