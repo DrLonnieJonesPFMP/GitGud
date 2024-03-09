@@ -17,7 +17,7 @@ While most of the extensions come ready right from the start, some require a cer
 
 The extension is designed for both individual and team-based situations. I use Pomodoro timers to effectively measure progress in general, per language, and per framework. Code-Stats, portfolio items, and examinations are the closest to measuring programming ability.
 
-## Getting started
+## Getting Started
 Most extensions are ready to go out of the box; however, some require a bit of configuration. Below are my configuration and quick start directions.
 * Code Time: https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode#getting-started
 * Code Stats
@@ -71,6 +71,7 @@ Keep coding, and may your Git commits always be güd!
 
 ## Known Issues
 [Issues](https://github.com/DrLonnieJonesPFMP/GitGud/issues)
+If you find any issues or suggestionss, please provide them in the GitHub [Issues](https://github.com/DrLonnieJonesPFMP/GitGud/issues).
 
 ## Release Notes
 2024.3.7: Small changes in wording, altered the background, and removed previous VSIX
