@@ -1,16 +1,19 @@
 # GitGud Readme
 GitGud is a simple extension bundle for the gamification of programming. It is designed to make programming more educational, engaging, and entertaining. Remember, GitGud is all about fun and motivation. It won’t replace essential development tools, but it adds a delightful layer to your coding routine. Remember, GitGud is all about fun and motivation. It won’t replace essential development tools, but it adds a delightful layer to your coding routine.  These extensions are:
-* [Code Time by Software.com](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
-* [Code-Stats by Juha Ristolainen](https://marketplace.visualstudio.com/items?itemName=riussi.code-stats-vscode)
-* [Checksum Fix by Lehni](https://marketplace.visualstudio.com/items?itemName=lehni.vscode-fix-checksums)
-* [Gif Code Snippet by Subhendukundu](https://marketplace.visualstudio.com/items?itemName=subhendukundu.gif-code-snippet)
-* [Giflens by Giflens](https://marketplace.visualstudio.com/items?itemName=giflens.giflens)
-* [Live Share Pomodoro by Jonathan Carter](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-pomodoro)
-* [Live Share by Microsoft](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-* [Pomodoro Timer by Kaiyuan Liu](https://marketplace.visualstudio.com/items?itemName=lkytal.pomodoro)
-* [Power Mode by Cody Hoover](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
-* [Synthwave 84 by Robb Owen](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
-* [Typing Sounds by ManhTuan](https://marketplace.visualstudio.com/items?itemName=MTuan.typing-sounds)
+
+|Icon | Name | Author	| Description	| Installs | Rating	| License |
+| --- | ---- | ------ | ----------- | -------- | ------ | ------- |
+| ![](https://softwaredotcom.gallerycdn.vsassets.io/extensions/softwaredotcom/swdc-vscode/2.7.6/1709577990194/Microsoft.VisualStudio.Services.Icons.Default "Code Time") | [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Software.com | Code Time is an open source plugin for automatic programming metrics and time tracking in Visual Studio Code. | 507,682 | 3.5 | Apache License Version 2.0 |
+| ![](https://riussi.gallerycdn.vsassets.io/extensions/riussi/code-stats-vscode/1.0.18/1585729310295/Microsoft.VisualStudio.Services.Icons.Default) | [Code-Stats](https://marketplace.visualstudio.com/items?itemName=riussi.code-stats-vscode) | Juha Ristolainen | This is a Visual Studio Code extension to send updates to https://codestats.net | 18,564 | 5 | MIT |
+| ![](https://lehni.gallerycdn.vsassets.io/extensions/lehni/vscode-fix-checksums/1.1.0/1533043976474/Microsoft.VisualStudio.Services.Icons.Default) | [Checksum Fix](https://marketplace.visualstudio.com/items?itemName=lehni.vscode-fix-checksums) | Lehni | An extension to to adjust checksums after changes to VSCode core files. | 273,290 | 5 | NONE |
+| ![](https://subhendukundu.gallerycdn.vsassets.io/extensions/subhendukundu/gif-code-snippet/1.0.2/1563161837005/Microsoft.VisualStudio.Services.Icons.Default) | [Gif Code Snippet](https://marketplace.visualstudio.com/items?itemName=subhendukundu.gif-code-snippet) | Subhendukundu | Create GIFs and photos from your code. | 1,441 | 3.5 | MIT |
+| ![](https://giflens.gallerycdn.vsassets.io/extensions/giflens/giflens/2.0.0/1564864796369/Microsoft.VisualStudio.Services.Icons.Default) | [Giflens](https://marketplace.visualstudio.com/items?itemName=giflens.giflens) | Giflens | It helps you to visualize GIFs at a glance using GIFLENS tags and code lens, seamlessly navigate and explore Gif repositories, gain valuable insights via powerful GIFs, and so much more. | 17,324 | 5 | MIT |
+| ![](https://ms-vsliveshare.gallerycdn.vsassets.io/extensions/ms-vsliveshare/vsliveshare/1.0.5918/1709669798447/Microsoft.VisualStudio.Services.Icons.Default) | [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Microsoft | Visual Studio Live Share enables you to collaboratively edit and debug with others in real time. | 16,070,651 | 4 | MICROSOFT SOFTWARE |
+| ![](https://lostintangent.gallerycdn.vsassets.io/extensions/lostintangent/vsls-pomodoro/0.1.0/1554872293983/Microsoft.VisualStudio.Services.Icons.Default) | [Live Share Pomodoro](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-pomodoro) | Jonathan Carter | Live Share Pomodoro enhances the existing Visual Studio Live Share experience, by enabling you to use the Pomodoro technique for time management within collaboration sessions.   | 7,556 | 5 | NONE |
+| ![](https://lkytal.gallerycdn.vsassets.io/extensions/lkytal/pomodoro/1.1.3/1567301972991/Microsoft.VisualStudio.Services.Icons.Default) | [Pomodoro Timer](https://marketplace.visualstudio.com/items?itemName=lkytal.pomodoro) | Kaiyuan Liu | A simple Pomodoro timer shows in the status bar. | 84,426 | 4.5 | GNU AFFERO GENERAL PUBLIC |
+| ![](https://hoovercj.gallerycdn.vsassets.io/extensions/hoovercj/vscode-power-mode/3.0.2/1647278286182/Microsoft.VisualStudio.Services.Icons.Default) | [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode) | Cody Hoover | Create GIFs, particle effects, and a combo streak meter. | 966,237 | 5 | MIT |
+| ![](https://robbowen.gallerycdn.vsassets.io/extensions/robbowen/synthwave-vscode/0.1.15/1670610064896/Microsoft.VisualStudio.Services.Icons.Default) | [Synthwave 84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) | Robb Owen | This colour scheme is influenced by the music and the cover artwork of modern Synthwave bands like FM-84, Timecop 1983 and The Midnight. | 1,749,651 | 5 | MIT |
+| ![](https://mtuan.gallerycdn.vsassets.io/extensions/mtuan/typing-sounds/0.0.5/1670581313846/Microsoft.VisualStudio.Services.Icons.Default) | [Typing Sounds](https://marketplace.visualstudio.com/items?itemName=MTuan.typing-sounds) | ManhTuan | Produces a typing sound when typing. | 9,112 | 5 | GPL-3.0 Derivative |
 
 ## Instructions
 While most of the extensions come ready right from the start, some require a certain amount of configuration. Typing sounds can have the sound replaced with another file. Code-Stats, Code Time, and Live Share require logging into an account. Power Mode has a good base, but the particles can be altered to another GIF. Synthwave requires the glow to be turned on and amplified. In the future, I would like to have the extension pack ready after the installation.
@@ -53,16 +56,18 @@ Most extensions are ready to go out of the box; however, some require a bit of c
 * Visual Studio Code 1.87.0 or higher
 
 ## Roadmap
-* Include license
-* Audio file replaced
-* Auto-configuration per OS type
-* Account sync
-* 2FA
-* In-depth programming analytics
-* Popup analytics report
-* Include license per extension
-* Create an individual extension
-* Create homepage
+* [ ] 2FA
+* [ ] Account sync
+* [ ] Add a GIF when all the extensions are in use
+* [ ] Audio file replaced
+* [ ] Auto-configuration per OS type
+* [ ] Create an individual extension
+* [ ] In-depth programming analytics
+* [ ] Include license
+* [ ] Popup analytics report
+* [X] Create homepage
+* [X] Include license per extension
+* [X] Replace lines with table
 
 ## Critical
 **Remember the golden rule: Have a good time.**
@@ -70,10 +75,11 @@ Learn to enjoy programming and improving regularly. It isn't always the most lin
 Keep coding, and may your Git commits always be güd!
 
 ## Known Issues
-[Issues](https://github.com/DrLonnieJonesPFMP/GitGud/issues)
-If you find any issues or suggestionss, please provide them in the GitHub [Issues](https://github.com/DrLonnieJonesPFMP/GitGud/issues).
+If you find any issues or suggestions, please provide them in the GitHub [Issues](https://github.com/DrLonnieJonesPFMP/GitGud/issues).
 
 ## Release Notes
+2024.3.9: Added table, added images, added licenses, improved the icon, changed wording, and added information about known issues (currently none).
+
 2024.3.7: Small changes in wording, altered the background, and removed previous VSIX
 
 2024.3.4: Added additional instructions for the checksum fix
