@@ -15,10 +15,13 @@ GitGud is a simple extension bundle for the gamification of programming. It is d
 | ![](https://robbowen.gallerycdn.vsassets.io/extensions/robbowen/synthwave-vscode/0.1.15/1670610064896/Microsoft.VisualStudio.Services.Icons.Default) | [Synthwave 84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) | Robb Owen | This colour scheme is influenced by the music and the cover artwork of modern Synthwave bands like FM-84, Timecop 1983 and The Midnight. | 1,749,651 | 5 | MIT |
 | ![](https://mtuan.gallerycdn.vsassets.io/extensions/mtuan/typing-sounds/0.0.5/1670581313846/Microsoft.VisualStudio.Services.Icons.Default) | [Typing Sounds](https://marketplace.visualstudio.com/items?itemName=MTuan.typing-sounds) | ManhTuan | Produces a typing sound when typing. | 9,112 | 5 | GPL-3.0 Derivative |
 
+Sample image:
+![Sample Image](https://raw.githubusercontent.com/DrLonnieJonesPFMP/GitGud/main/Sample.png)
+
 ## Instructions
 While most of the extensions come ready right from the start, some require a certain amount of configuration. Typing sounds can have the sound replaced with another file. Code-Stats, Code Time, and Live Share require logging into an account. Power Mode has a good base, but the particles can be altered to another GIF. Synthwave requires the glow to be turned on and amplified. In the future, I would like to have the extension pack ready after the installation.
 
-The extension is designed for both individual and team-based situations. I use Pomodoro timers to effectively measure progress in general, per language, and per framework. Code-Stats, portfolio items, and examinations are the closest to measuring programming ability.
+The extension is designed for both individual and team-based situations. I use Pomodoro timers to effectively measure progress in general, per language, and per framework. Code-Stats, portfolio items, and examinations are the closest to measuring programming ability. 
 
 ## Getting Started
 Most extensions are ready to go out of the box; however, some require a bit of configuration. Below are my configuration and quick start directions.
@@ -65,9 +68,11 @@ Most extensions are ready to go out of the box; however, some require a bit of c
 * [ ] In-depth programming analytics
 * [ ] Include license
 * [ ] Popup analytics report
+* [ ] Templates for Power Mode
 * [X] Create homepage
 * [X] Include license per extension
 * [X] Replace lines with table
+* [X] Updated icon
 
 ## Critical
 **Remember the golden rule: Have a good time.**
@@ -78,7 +83,9 @@ Keep coding, and may your Git commits always be güd!
 If you find any issues or suggestions, please provide them in the GitHub [Issues](https://github.com/DrLonnieJonesPFMP/GitGud/issues).
 
 ## Release Notes
-2024.3.9: Added table, added images, added licenses, improved the icon, changed wording, and added information about known issues (currently none).
+2024.3.10: Updated icon
+
+2024.3.9: Added table, added images, add licenses, improved the icon, changed wording, and added information about known issues (currently none).
 
 2024.3.7: Small changes in wording, altered the background, and removed previous VSIX
 
@@ -91,3 +98,6 @@ If you find any issues or suggestions, please provide them in the GitHub [Issues
 0.0.2: Updated documentation
 
 0.0.1: Added base extensions, icon
+
+##Special Thanks
+[Starline](https://www.freepik.com/author/starline)
