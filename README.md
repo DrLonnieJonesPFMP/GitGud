@@ -83,7 +83,7 @@ Keep coding, and may your Git commits always be güd!
 If you find any issues or suggestions, please provide them in the GitHub [Issues](https://github.com/DrLonnieJonesPFMP/GitGud/issues).
 
 ## Release Notes
-2024.3.10: Updated icon
+2024.3.10: Updated 1XP, icon, sample image, added more tasks
 
 2024.3.9: Added table, added images, add licenses, improved the icon, changed wording, and added information about known issues (currently none).
 
