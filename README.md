@@ -99,5 +99,6 @@ If you find any issues or suggestions, please provide them in the GitHub [Issues
 
 0.0.1: Added base extensions, icon
 
-##Special Thanks
+## Special Thanks
+
 [Starline](https://www.freepik.com/author/starline)
