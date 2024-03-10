@@ -9,7 +9,9 @@ GitGud is a simple extension bundle for the gamification of programming. It is d
 | ![](https://subhendukundu.gallerycdn.vsassets.io/extensions/subhendukundu/gif-code-snippet/1.0.2/1563161837005/Microsoft.VisualStudio.Services.Icons.Default) | [Gif Code Snippet](https://marketplace.visualstudio.com/items?itemName=subhendukundu.gif-code-snippet) | Subhendukundu | Create GIFs and photos from your code. | 1,441 | 3.5 | MIT |
 | ![](https://giflens.gallerycdn.vsassets.io/extensions/giflens/giflens/2.0.0/1564864796369/Microsoft.VisualStudio.Services.Icons.Default) | [Giflens](https://marketplace.visualstudio.com/items?itemName=giflens.giflens) | Giflens | It helps you to visualize GIFs at a glance using GIFLENS tags and code lens, seamlessly navigate and explore Gif repositories, gain valuable insights via powerful GIFs, and so much more. | 17,324 | 5 | MIT |
 | ![](https://ms-vsliveshare.gallerycdn.vsassets.io/extensions/ms-vsliveshare/vsliveshare/1.0.5918/1709669798447/Microsoft.VisualStudio.Services.Icons.Default) | [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Microsoft | Visual Studio Live Share enables you to collaboratively edit and debug with others in real time. | 16,070,651 | 4 | Microsoft Software |
+| ![](https://ms-vsliveshare.gallerycdn.vsassets.io/extensions/ms-vsliveshare/vsliveshare/1.0.5918/1709669798447/Microsoft.VisualStudio.Services.Icons.Default) | [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Microsoft | Visual Studio Live Share enables you to collaboratively edit and debug with others in real time. | 16,070,651 | 4 | Microsoft Software |
 | ![](https://lostintangent.gallerycdn.vsassets.io/extensions/lostintangent/vsls-pomodoro/0.1.0/1554872293983/Microsoft.VisualStudio.Services.Icons.Default) | [Live Share Pomodoro](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-pomodoro) | Jonathan Carter | Live Share Pomodoro enhances the existing Visual Studio Live Share experience, by enabling you to use the Pomodoro technique for time management within collaboration sessions.   | 7,556 | 5 | NONE |
+| ![](https://lkytal.gallerycdn.vsassets.io/extensions/lkytal/pomodoro/1.1.3/1567301972991/Microsoft.VisualStudio.Services.Icons.Default) | [Pomodoro Timer](https://marketplace.visualstudio.com/items?itemName=lkytal.pomodoro) | Kaiyuan Liu | A simple Pomodoro timer shows in the status bar. | 84,426 | 4.5 | GNU AFFERO General Public |
 | ![](https://lkytal.gallerycdn.vsassets.io/extensions/lkytal/pomodoro/1.1.3/1567301972991/Microsoft.VisualStudio.Services.Icons.Default) | [Pomodoro Timer](https://marketplace.visualstudio.com/items?itemName=lkytal.pomodoro) | Kaiyuan Liu | A simple Pomodoro timer shows in the status bar. | 84,426 | 4.5 | GNU AFFERO General Public |
 | ![](https://hoovercj.gallerycdn.vsassets.io/extensions/hoovercj/vscode-power-mode/3.0.2/1647278286182/Microsoft.VisualStudio.Services.Icons.Default) | [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode) | Cody Hoover | Create GIFs, particle effects, and a combo streak meter. | 966,237 | 5 | MIT |
 | ![](https://robbowen.gallerycdn.vsassets.io/extensions/robbowen/synthwave-vscode/0.1.15/1670610064896/Microsoft.VisualStudio.Services.Icons.Default) | [Synthwave 84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) | Robb Owen | This colour scheme is influenced by the music and the cover artwork of modern Synthwave bands like FM-84, Timecop 1983 and The Midnight. | 1,749,651 | 5 | MIT |
@@ -18,9 +20,13 @@ GitGud is a simple extension bundle for the gamification of programming. It is d
 Sample image:
 ![Sample Image](https://raw.githubusercontent.com/DrLonnieJonesPFMP/GitGud/main/Sample.png)
 
+Sample image:
+![Sample Image](https://raw.githubusercontent.com/DrLonnieJonesPFMP/GitGud/main/Sample.png)
+
 ## Instructions
 While most of the extensions come ready right from the start, some require a certain amount of configuration. Typing sounds can have the sound replaced with another file. Code-Stats, Code Time, and Live Share require logging into an account. Power Mode has a good base, but the particles can be altered to another GIF. Synthwave requires the glow to be turned on and amplified. In the future, I would like to have the extension pack ready after the installation.
 
+The extension is designed for both individual and team-based situations. I use Pomodoro timers to effectively measure progress in general, per language, and per framework. Code-Stats, portfolio items, and examinations are the closest to measuring programming ability. 
 The extension is designed for both individual and team-based situations. I use Pomodoro timers to effectively measure progress in general, per language, and per framework. Code-Stats, portfolio items, and examinations are the closest to measuring programming ability. 
 
 ## Getting Started
@@ -69,9 +75,11 @@ Most extensions are ready to go out of the box; however, some require a bit of c
 * [ ] Include license
 * [ ] Popup analytics report
 * [ ] Templates for Power Mode
+* [ ] Templates for Power Mode
 * [X] Create homepage
 * [X] Include license per extension
 * [X] Replace lines with table
+* [X] Updated icon
 * [X] Updated icon
 
 ## Critical
@@ -83,6 +91,9 @@ Keep coding, and may your Git commits always be güd!
 If you find any issues or suggestions, please provide them in the GitHub [Issues](https://github.com/DrLonnieJonesPFMP/GitGud/issues).
 
 ## Release Notes
+2024.3.10: Updated 1XP, icon, sample image, added more tasks
+
+2024.3.9: Added table, added images, add licenses, improved the icon, changed wording, and added information about known issues (currently none).
 2024.3.10: Updated 1XP, icon, sample image, added more tasks
 
 2024.3.9: Added table, added images, add licenses, improved the icon, changed wording, and added information about known issues (currently none).
