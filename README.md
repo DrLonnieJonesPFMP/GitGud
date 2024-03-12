@@ -61,10 +61,6 @@ Most extensions are ready to go out of the box; however, some require a bit of c
 ## Roadmap
 * [ ] Add a GIF when all the extensions are in use
 * [ ] Audio file replaced
-<<<<<<< HEAD
-=======
-* [ ] Auto-configuration per OS type
->>>>>>> dd7fdadb7d2996adbe81d097c1569c5da751d7b3
 * [ ] Include license
 * [X] Create homepage
 * [X] Include license per extension
