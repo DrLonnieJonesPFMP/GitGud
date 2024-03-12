@@ -4,17 +4,11 @@ All notable changes to the "gitgud" extension pack will be documented in this fi
 
 ## 2024.3.11
 - Fixed
-    - Moved tasks to another extension. 
-
-  - History collects all searches
-    - Possibility to view, insert, or remove a Gif from the history
-    - Possibility to save a Gif into favorites
-  - Favorites helps the user at keeping his most used Gifs
-    - Possibility to view, insert, or remove a Gif from the favorites
+    - Moved tasks to another extension
 
 ## [2024.3.10](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.10/vspackage)
 - Fixed
-    - Updated 1XP, icon, sample image,
+    - Updated 1XP, icon, sample image
 - Added
     - More tasks
 
