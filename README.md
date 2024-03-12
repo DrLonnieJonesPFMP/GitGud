@@ -97,4 +97,4 @@ If you find any issues or suggestions, please provide them in the GitHub [Issues
 
 ## Special Thanks
 
-[Image by Starline on Freepik](https://www.freepik.com/free-vector/retro-style-digital-sci-fi-background-with-sun-design_38091734.htm#page=2&query=retro&position=3&from_view=author&uuid=afddb539-d044-4361-8c43-098e6d530ac7)
+[Original image by Starline on Freepik](https://www.freepik.com/free-vector/retro-style-digital-sci-fi-background-with-sun-design_38091734.htm#page=2&query=retro&position=3&from_view=author&uuid=afddb539-d044-4361-8c43-098e6d530ac7)
