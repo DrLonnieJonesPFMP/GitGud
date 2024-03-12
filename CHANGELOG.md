@@ -51,7 +51,7 @@ All notable changes to the "gitgud" extension pack will be documented in this fi
     - Added additional instructions for the checksum fix
 
 # Initial release
--Added
-    -Extension bundle
-    -Icon
-    -Extension outline
+- Added
+    - Extension bundle
+    - Icon
+    - Extension outline
