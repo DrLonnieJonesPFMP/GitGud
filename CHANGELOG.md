@@ -2,9 +2,15 @@
 
 All notable changes to the "gitgud" extension pack will be documented in this file.
 
-## 2024.3.11
+## 2024.3.12
+- Added
+    - Changelog download links
 - Fixed
-    - Moved tasks to another extension
+    - Attribution
+
+## [2024.3.11](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.11/vspackage)
+- Fixed
+    - Moved tasks to another extension. 
 
 ## [2024.3.10](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.10/vspackage)
 - Fixed
