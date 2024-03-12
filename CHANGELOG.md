@@ -2,8 +2,57 @@
 
 All notable changes to the "gitgud" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 2024.3.11
+- Fixed
+    - Moved tasks to another extension. 
 
-## [Unreleased]
+  - History collects all searches
+    - Possibility to view, insert, or remove a Gif from the history
+    - Possibility to save a Gif into favorites
+  - Favorites helps the user at keeping his most used Gifs
+    - Possibility to view, insert, or remove a Gif from the favorites
 
-- Initial release
+## [2024.3.10](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.10/vspackage)
+- Fixed
+    - Updated 1XP, icon, sample image, added more tasks
+
+## [2024.3.9](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.9/vspackage)
+- Added
+    - Table with all extensions, images, and license, improved the icon
+    - Information about known issues
+- Fixed
+    - Word selection
+
+## [2024.3.7](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.7/vspackage)
+- Fixed
+    - Wording
+    - Background
+    - Removed unnecessary files
+
+## 2024.3.4
+- Added
+    - Added additional instructions for the checksum fix
+
+## [2024.3.3](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.3/vspackage)
+- Fixed
+    - Formatting issues
+
+## [2024.3.2](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.2/vspackage)
+- Added
+    - Quick start directions
+    - Release notes
+- Fixed
+    - Updated version control for the date
+    - Updated the Readme
+
+## 0.0.2
+- Fixed
+    - Outline
+
+# [Unreleased]
+
+# Initial release
+-Added
+    -Extension bundle
+    -Icon
+    -Extension outline
