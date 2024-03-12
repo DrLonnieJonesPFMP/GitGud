@@ -14,7 +14,9 @@ All notable changes to the "gitgud" extension pack will be documented in this fi
 
 ## [2024.3.10](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.10/vspackage)
 - Fixed
-    - Updated 1XP, icon, sample image, added more tasks
+    - Updated 1XP, icon, sample image,
+- Added
+    - More tasks
 
 ## [2024.3.9](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.9/vspackage)
 - Added
