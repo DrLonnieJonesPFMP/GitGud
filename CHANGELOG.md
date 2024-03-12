@@ -29,10 +29,6 @@ All notable changes to the "gitgud" extension pack will be documented in this fi
     - Background
     - Removed unnecessary files
 
-## 2024.3.4
-- Added
-    - Added additional instructions for the checksum fix
-
 ## [2024.3.3](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.3/vspackage)
 - Fixed
     - Formatting issues
@@ -50,6 +46,9 @@ All notable changes to the "gitgud" extension pack will be documented in this fi
     - Outline
 
 # [Unreleased]
+## 2024.3.4
+- Added
+    - Added additional instructions for the checksum fix
 
 # Initial release
 -Added
