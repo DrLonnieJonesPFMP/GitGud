@@ -79,7 +79,7 @@ If you find any issues or suggestions, please provide them in the GitHub [Issues
 * Typing Sounds has an issue with lag on Windows operating systems. Evaluating different extensions that have low MS response time for all operating systems.
 
 ## Release Notes
-2024.3.31: Added Gitlens and GitHub Copilot.
+[2024.3.31](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.31/vspackage): Added Gitlens and GitHub Copilot.
 
 [2024.3.12](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.12/vspackage): Added download links and fixed attribution.
 
