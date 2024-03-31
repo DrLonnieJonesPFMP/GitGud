@@ -85,17 +85,17 @@ If you find any issues or suggestions, please provide them in the GitHub [Issues
 
 [2024.3.11](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.11/vspackage): Moved tasks to another extension. 
 
-[2024.3.10](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.10/vspackage): Updated 1XP, icon, sample image, added more tasks
+[2024.3.10](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.10/vspackage): Updated 1XP, icon, sample image, added more tasks.
 
 [2024.3.9](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.9/vspackage): Added table, images, and license, improved the icon, changed the wording, and added information about known issues (currently none).
 
-[2024.3.7](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.7/vspackage): Small changes in wording, altered the background, and removed the previous VSIX
+[2024.3.7](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.7/vspackage): Small changes in wording, altered the background, and removed the previous VSIX.
 
-2024.3.4: Added additional instructions for the checksum fix
+2024.3.4: Added additional instructions for the checksum fix.
 
-[2024.3.3](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.3/vspackage): Formatting issues fixed
+[2024.3.3](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.3/vspackage): Formatting issues fixed.
 
-[2024.3.2](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.2/vspackage): Updated the Readme, added quick start directions, release notes, updated version control for the date
+[2024.3.2](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.3.2/vspackage): Updated the Readme, added quick start directions, release notes, updated version control for the date.
 
 0.0.2: Updated documentation
 
