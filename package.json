@@ -2,8 +2,8 @@
 {
   "name": "gitgud",
   "displayName": "GitGud",
-  "description": "Gamification of Programming",
-  "version": "2024.3.10",
+  "description": "It is the gamification of programming. GitGud adds game-like mechanics to programming including a dynamic colored theme, coding statistics, collaboration, gif previews, typing combos, Git assistance, and sounds.",
+  "version": "2024.4.14",
   "publisher": "LonnieSJones",
   "MoreInfoURL": "",
   "engines": {
@@ -12,19 +12,22 @@
   "icon": "icon.png",
   "keywords": [
     "collaboration",
-    "game",
+    "copilot",
+    "co-pilot",
     "development",
+    "game",    
     "gamification",
     "gif",
+    "git",
     "metric",
     "power",
     "sound",
+    "statistics",
     "theme",
     "time"
   ],
   "categories": [
-      "Extension Packs",
-      "Other"
+      "Extension Packs"
   ],
   "repository": {
       "url": "https://github.com/DrLonnieJonesPFMP/GitGud"
@@ -34,7 +37,9 @@
       "url": "https://github.com/DrLonnieJonesPFMP/GitGud/issues"
   },
   "extensionDependencies": [
-  "giflens.giflens", 
+  "eamodio.gitlens",
+  "giflens.giflens",
+  "gitHub.copilot",
   "hoovercj.vscode-power-mode", 
   "lkytal.pomodoro", 
   "lehni.vscode-fix-checksums",
