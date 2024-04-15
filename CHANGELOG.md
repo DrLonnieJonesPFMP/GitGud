@@ -1,5 +1,5 @@
 # Change Log
-All notable changes to the "gitgud" extension pack will be documented in this file.
+All notable changes to the "Gitgud" extension pack will be documented in this file.
 
 ## [2024.4.13]
 - Added
