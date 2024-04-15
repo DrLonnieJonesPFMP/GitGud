@@ -32,7 +32,6 @@ GitGud is a simple extension bundle for the gamification of programming. It is d
 
 Sample image:
 ![Sample Image](https://raw.githubusercontent.com/DrLonnieJonesPFMP/GitGud/main/Sample.png "Sample Image")
-![Sample Image](https://raw.githubusercontent.com/DrLonnieJonesPFMP/GitGud/main/Sample.png "Sample Image")
 
 ## Instructions
 While most of the extensions come ready right from the start, some require a certain amount of configuration. Typing sounds can have the sound replaced with another file. Code-Stats, Code Time, and Live Share require logging into an account. Power Mode has a good base, but the particles can be altered to another GIF. Synthwave requires the glow to be turned on and amplified. In the future, I would like to have the extension pack ready after the installation.
