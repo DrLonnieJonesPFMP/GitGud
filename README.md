@@ -93,6 +93,8 @@ If you find any issues or suggestions, please provide them in the GitHub [Issues
 * Typing Sounds has an issue with lag on Windows operating systems. Evaluating different extensions that have low MS response time for all operating systems.
 
 ## Release Notes
+Public release: https://marketplace.visualstudio.com/items?itemName=LonnieSJones.gitgud
+
 2024.4.14: Altered description.
 
 [2024.4.13](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LonnieSJones/vsextensions/gitgud/2024.4.13/vspackage): Added additional tags and improved description.
